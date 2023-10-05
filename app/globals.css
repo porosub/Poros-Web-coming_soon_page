@@ -8,14 +8,12 @@
 
 .jt {
   position: relative;
-  font-size: 20vmin;
   font-family: "Staatliches", cursive;
   text-transform: uppercase;
   font-display: swap;
   text-shadow: 0 0 10px #28aa49;
   color: #29ac4a;
   font-weight: 400;
-  font-size: 10rem;
 }
 
 .jt__row {
